@@ -1,0 +1,26 @@
+{
+  "name": "@qiqi715/react-native-alert",
+  "version": "1.0.0",
+  "description": "Alert with styles that can be used on both android and iOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Alert"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "react-native-root-siblings": "^3.1.6"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiqi0715/react-native-alert.git"
+  },
+  "author": "qiqi715",
+  "bugs": {
+    "url": "https://github.com/qiqi0715/react-native-alert/issues"
+  },
+  "homepage": "https://github.com/qiqi0715/react-native-alert#readme"
+}
